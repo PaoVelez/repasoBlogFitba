@@ -23,4 +23,8 @@ horarios
 Siguiente página 
 
 
+Página anterior 
+
+Menu de inicio para otras cosas 
+
 
