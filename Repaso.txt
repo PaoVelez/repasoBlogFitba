@@ -8,7 +8,7 @@ de aplicaciones web para empresas orientadas al deporte y cuidado físico.
 
 Nos motiva retener a las personas y que se conviertan en clientes permanentes. 
 
-Sabemos que algunas personas se pueden sentir frustradas al intentar iniciar su cambio de vida. Ahí entramos nosotros. 
+Sabemos que algunas usuarios se pueden sentir frustradas al intentar iniciar su nuevo estilo de vida. Ahí entramos nosotros. 
 
 ¿Estás listo para llevar tu negocio a otro nivel? 
 
@@ -26,5 +26,9 @@ Siguiente página
 Página anterior 
 
 Menu de inicio para otras cosas  aqui hay otros cambios 
+ 
+
+ mas cambios para validar branches 
+
 
 
