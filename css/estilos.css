@@ -7,10 +7,30 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+    background: purple  ;
+    box-shadow: 0px 5px 50px 0px black (0,0,0,1.75) ;
+    color: white;
+    font-weight: bold;
+    font-size: 1.00cm;
+    margin: 0;
+    padding: 0.5 em;
+
+}
+
+#cabecera#tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.6cm;
+}
+
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid coral;
     margin: 0 auto;
@@ -20,6 +40,7 @@ body
     font-size: 20px;
     
 }
+
 #container h2
 {
     font-size: 18px;
